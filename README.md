@@ -56,10 +56,12 @@ Para mais informações, entre em contato com:
 ## Email:
 
 adrianodesilva22@gmail.com
+gabrielmpaiva0703@gmail.com
 
 ## LinkedIn:
 
 www.linkedin.com/in/adriano-da-silva-094506256/
+www.linkedin.com/in/gabrielgmpaiva/
 
 ## Video do sistema em execução:
 https://www.linkedin.com/posts/adriano-da-silva-094506256_residenciatecnologica-portodigital-desenvolvimentodesoftware-activity-7210010816983539712-ft3v?utm_source=share&utm_medium=member_android
